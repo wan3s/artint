@@ -32,4 +32,6 @@
 ## Видео
 ```Ссылка: https://yadi.sk/i/b77DYirY7ENuhQ```
 
+За лого спасибо Рожкову Никите
+
 ![ArtInt Logo](media/artint4.png "ArtInt Logo")
